@@ -11,8 +11,8 @@ struct ContentView: View {
     var viewModel: EmojiMemoryGame
     var body: some View {
         HStack() {
-            ForEach(viewModel.cards) { index in
-                CardView(card: ...)
+            ForEach(viewModel.cards) { card in
+                CardView(card: card)
             }
         }
             .padding()

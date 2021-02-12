@@ -13,10 +13,9 @@ class EmojiMemoryGame {
     // var diferente de statc var estudar
     static func createMemoryGame() -> MemoryGame<String> {
         let emojis: Array<String> = ["😖","😳","😔","🤣","🥴","🪀","🔥","🤝🏻","🤡","🤙🏻"]
-        return MemoryGame<String>(numberOfPairsOfCards: 10) {
-            // é possivel trocar o pairIndex por um _ (estudar)
-            pairIndex in
+        return MemoryGame<String>(numberOfPairsOfCards: 10) { pairIndex in
             return emojis[pairIndex]
+            // é possivel trocar o pairIndex por um _ (estudar)
         }
     }
         
