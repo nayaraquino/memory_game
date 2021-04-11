@@ -3,11 +3,7 @@
 ---
 Projeto desenvolvido durante o meu primeiro estudo de Swift.
 
-### :construction: Não finalizado :construction:
-
-## :hammer_and_wrench: Tecnologias Utilizadas
-- Swift
-
+### :construction: Em construção :construction:
 
 ---
 ## :woman_technologist: Autora
