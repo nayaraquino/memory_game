@@ -3,7 +3,7 @@
 ---
 Projeto desenvolvido durante o meu primeiro estudo de Swift.
 
-### :construction: Em construção :construction:
+## :construction: Em construção :construction:
 
 ## :hammer_and_wrench: Tecnologias Utilizadas
 - [Swift](https://developer.apple.com/swift/)
